@@ -11,8 +11,8 @@ namespace ex1
         static void Main(string[] args)
         {
             Content content = new Content();
-            content.createDB(@"/Users/tmankita/Desktop/INPUT.txt");
-            content.writeToFile(@"/Users/tmankita/Desktop/OUTPUT.txt");
+            content.createDB(@"/Users/.../INPUT.txt");
+            content.writeToFile(@"/Users/.../OUTPUT.txt");
 
         }
     }
