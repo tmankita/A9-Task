@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvFjeL6zJFwlUKLk5xBWAAdkhIkLt+rMWBpLWl/7I9Nlb7vujm68B+YK19ymQtOiP9DvJ/irJDlqnm+5S4ejZg==",
+  "success": true,
+  "projectFilePath": "/Users/tmankita/Projects/ex1/ex1/ex1.csproj",
+  "expectedPackageFiles": [
+    "/Users/tmankita/.nuget/packages/ipstack/1.0.1/ipstack.1.0.1.nupkg.sha512",
+    "/Users/tmankita/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ex1/1.0.0": {
+        "dependencies": {
+          "IpStack": "1.0.1"
+        },
+        "runtime": {
+          "ex1.dll": {}
+        }
+      },
+      "IpStack/1.0.1": {
+        "dependencies": {
+          "RestSharp": "106.6.10"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/IpStack.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RestSharp/106.6.10": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.6.10.0",
+            "fileVersion": "106.6.10.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IpStack/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h9BOV8McZD0i0+yQKF6TTfW009W2pWORh/3ZuVR3CCBPKNH3Noiff+FdNmhKsIYqktvyYWt61mhaQxfxe6Oqrw==",
+      "path": "ipstack/1.0.1",
+      "hashPath": "ipstack.1.0.1.nupkg.sha512"
+    },
+    "RestSharp/106.6.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x1FM32hjnVOIn+DKtCs2Y4Q2DCUE5KW08NUXUd4GjgKjE+5PE0F6e9XfUg7nILo05M0TA/HRkRD/SeQ8+duOUA==",
+      "path": "restsharp/106.6.10",
+      "hashPath": "restsharp.106.6.10.nupkg.sha512"
+    }
+  }
+}

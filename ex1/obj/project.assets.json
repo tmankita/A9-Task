@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IpStack/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "RestSharp": "106.6.10"
+        },
+        "compile": {
+          "lib/netcoreapp2.1/IpStack.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/IpStack.dll": {}
+        }
+      },
+      "RestSharp/106.6.10": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IpStack/1.0.1": {
+      "sha512": "h9BOV8McZD0i0+yQKF6TTfW009W2pWORh/3ZuVR3CCBPKNH3Noiff+FdNmhKsIYqktvyYWt61mhaQxfxe6Oqrw==",
+      "type": "package",
+      "path": "ipstack/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ipstack.1.0.1.nupkg.sha512",
+        "ipstack.nuspec",
+        "lib/netcoreapp2.1/IpStack.dll"
+      ]
+    },
+    "RestSharp/106.6.10": {
+      "sha512": "x1FM32hjnVOIn+DKtCs2Y4Q2DCUE5KW08NUXUd4GjgKjE+5PE0F6e9XfUg7nILo05M0TA/HRkRD/SeQ8+duOUA==",
+      "type": "package",
+      "path": "restsharp/106.6.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.6.10.nupkg.sha512",
+        "restsharp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IpStack >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "/Users/tmankita/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/tmankita/Projects/ex1/ex1/ex1.csproj",
+      "projectName": "ex1",
+      "projectPath": "/Users/tmankita/Projects/ex1/ex1/ex1.csproj",
+      "packagesPath": "/Users/tmankita/.nuget/packages/",
+      "outputPath": "/Users/tmankita/Projects/ex1/ex1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/tmankita/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "IpStack": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

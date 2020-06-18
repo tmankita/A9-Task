@@ -1,0 +1,15 @@
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/ex1.deps.json
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/ex1.runtimeconfig.json
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/ex1.runtimeconfig.dev.json
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/ex1.dll
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/ex1.pdb
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.csprojAssemblyReference.cache
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.AssemblyInfoInputs.cache
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.AssemblyInfo.cs
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.csproj.CoreCompileInputs.cache
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.dll
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.pdb
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.genruntimeconfig.cache
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/IpStack.dll
+/Users/tmankita/Projects/ex1/ex1/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/tmankita/Projects/ex1/ex1/obj/Debug/netcoreapp3.1/ex1.csproj.CopyComplete
